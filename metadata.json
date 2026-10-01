@@ -1,0 +1,6 @@
+{
+  "name": "PeerCampus - Multi-College P2P Learning & Skill Ecosystem",
+  "description": "Multi-college peer-to-peer learning network, encrypted student credentials, controlled 70% video progression lock, credit economy, interactive knowledge graphs, and campus learning intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
